@@ -1,0 +1,12 @@
+p {
+  
+  margin: 5px;
+  padding: 5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: red;
+}
+img{ 
+  width:150px;
+  height:150px;
+}
